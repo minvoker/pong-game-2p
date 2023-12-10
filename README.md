@@ -1,12 +1,13 @@
 # pong-game-2p
-A classic 2-Player Pong game implemented using Pygame
+This repository contains my first project using Pygame, a 2-Player Pong game. This project was completed in one day.
 ![pong-game-2p](pong_screenshot.jpg)
+
 
 ## Features
 
 - Classic Pong gameplay with two paddles and a bouncing ball.
 - Enhanced ball physics for more engaging and unpredictable gameplay.
-- Collision detection improvements to handle high-speed movements and prevent glitches.
+- Collision detection.
 - Sound effects for scoring and ball bounce events.
 
 ### Controls
