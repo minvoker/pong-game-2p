@@ -1,5 +1,6 @@
 # pong-game-2p
 This repository contains my first project using Pygame, a 2-Player Pong game. This project was completed in one day.
+
 ![pong-game-2p](pong_screenshot.jpg)
 
 
