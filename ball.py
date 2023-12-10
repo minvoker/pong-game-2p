@@ -7,7 +7,6 @@ scoreSound.set_volume(0.7)
 bounceSound.set_volume(0.4)
 
 class Ball:
-
     def __init__(self, pos, velocity, window, rad, minCoord, maxCoord):
         self.pos = pos
         self.velocity = velocity
